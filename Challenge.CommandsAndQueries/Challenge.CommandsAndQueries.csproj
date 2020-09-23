@@ -8,8 +8,4 @@
     <ProjectReference Include="..\Challenge.DataBase\Challenge.DataBase.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Commands\" />
-  </ItemGroup>
-
 </Project>

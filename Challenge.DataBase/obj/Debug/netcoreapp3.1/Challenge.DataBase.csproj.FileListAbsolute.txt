@@ -10,3 +10,15 @@ C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.DataBase\bin\Debug\ne
 C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.DataBase\obj\Debug\netcoreapp3.1\Challenge.DataBase.dll
 C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.DataBase\obj\Debug\netcoreapp3.1\Challenge.DataBase.pdb
 C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.DataBase\obj\Debug\netcoreapp3.1\Challenge.DataBase.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\Code Challenge\challenge-api\Challenge.DataBase\bin\Debug\netcoreapp3.1\Challenge.DataBase.deps.json
+C:\Dev\Personal\Code Challenge\challenge-api\Challenge.DataBase\bin\Debug\netcoreapp3.1\Challenge.DataBase.runtimeconfig.json
+C:\Dev\Personal\Code Challenge\challenge-api\Challenge.DataBase\bin\Debug\netcoreapp3.1\Challenge.DataBase.runtimeconfig.dev.json
+C:\Dev\Personal\Code Challenge\challenge-api\Challenge.DataBase\bin\Debug\netcoreapp3.1\Challenge.DataBase.dll
+C:\Dev\Personal\Code Challenge\challenge-api\Challenge.DataBase\bin\Debug\netcoreapp3.1\Challenge.DataBase.pdb
+C:\Dev\Personal\Code Challenge\challenge-api\Challenge.DataBase\obj\Debug\netcoreapp3.1\Challenge.DataBase.csprojAssemblyReference.cache
+C:\Dev\Personal\Code Challenge\challenge-api\Challenge.DataBase\obj\Debug\netcoreapp3.1\Challenge.DataBase.AssemblyInfoInputs.cache
+C:\Dev\Personal\Code Challenge\challenge-api\Challenge.DataBase\obj\Debug\netcoreapp3.1\Challenge.DataBase.AssemblyInfo.cs
+C:\Dev\Personal\Code Challenge\challenge-api\Challenge.DataBase\obj\Debug\netcoreapp3.1\Challenge.DataBase.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\Code Challenge\challenge-api\Challenge.DataBase\obj\Debug\netcoreapp3.1\Challenge.DataBase.dll
+C:\Dev\Personal\Code Challenge\challenge-api\Challenge.DataBase\obj\Debug\netcoreapp3.1\Challenge.DataBase.pdb
+C:\Dev\Personal\Code Challenge\challenge-api\Challenge.DataBase\obj\Debug\netcoreapp3.1\Challenge.DataBase.genruntimeconfig.cache

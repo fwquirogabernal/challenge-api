@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o+gymXg0Vi0pF5pW8f9q92IDXeWIhamo1xYVZQRe0DKen0pVFxZ9B+XKqS+gjHrmXZQ2IDzT8jjlNLofcysfTw==",
+  "dgSpecHash": "R3WHfONwfLuK6KDSnMAbxMrvK/4Mm6a5vjZOphSS0LKiPaJwDt/KJO/p+KFuA4n8VfXOVcIO6m97HNQRWhB2Eg==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Personal\\Code Challenge\\api\\Challenge.Api\\Challenge.DataBase\\Challenge.DataBase.csproj",
+  "projectFilePath": "C:\\Dev\\Personal\\Code Challenge\\challenge-api\\Challenge.DataBase\\Challenge.DataBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fernando\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

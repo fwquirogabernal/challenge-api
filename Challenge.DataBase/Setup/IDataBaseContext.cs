@@ -7,5 +7,7 @@ namespace Challenge.DataBase.Setup
     public interface IDataBaseContext: IDisposable
     {
         public DbSet<Task> Tasks { get; }
+
+        int SaveChanges();
     }
 }

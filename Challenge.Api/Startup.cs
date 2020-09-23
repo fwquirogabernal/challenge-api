@@ -1,4 +1,6 @@
+using Challenge.CommandsAndQueries.Commands;
 using Challenge.CommandsAndQueries.Queries;
+using Challenge.DataBase.Entities;
 using Challenge.DataBase.Setup;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -53,6 +55,7 @@ namespace Challenge.Api
         private static void IntallCommandsAndQueries(IServiceCollection services)
         {
             services.AddScoped<ITaskQuery, TasksQueries>();
+            services.AddScoped<ITaskCommand<Task>, TasksCommands>();
         }
     }
 }

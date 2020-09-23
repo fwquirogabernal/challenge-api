@@ -6131,11 +6131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Personal\\Code Challenge\\api\\Challenge.Api\\Challenge.Api\\Challenge.Api.csproj",
+      "projectUniqueName": "C:\\Dev\\Personal\\Code Challenge\\challenge-api\\Challenge.Api\\Challenge.Api.csproj",
       "projectName": "Challenge.Api",
-      "projectPath": "C:\\Dev\\Personal\\Code Challenge\\api\\Challenge.Api\\Challenge.Api\\Challenge.Api.csproj",
+      "projectPath": "C:\\Dev\\Personal\\Code Challenge\\challenge-api\\Challenge.Api\\Challenge.Api.csproj",
       "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Personal\\Code Challenge\\api\\Challenge.Api\\Challenge.Api\\obj\\",
+      "outputPath": "C:\\Dev\\Personal\\Code Challenge\\challenge-api\\Challenge.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6155,11 +6155,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Dev\\Personal\\Code Challenge\\api\\Challenge.Api\\Challenge.CommandsAndQueries\\Challenge.CommandsAndQueries.csproj": {
-              "projectPath": "C:\\Dev\\Personal\\Code Challenge\\api\\Challenge.Api\\Challenge.CommandsAndQueries\\Challenge.CommandsAndQueries.csproj"
+            "C:\\Dev\\Personal\\Code Challenge\\challenge-api\\Challenge.CommandsAndQueries\\Challenge.CommandsAndQueries.csproj": {
+              "projectPath": "C:\\Dev\\Personal\\Code Challenge\\challenge-api\\Challenge.CommandsAndQueries\\Challenge.CommandsAndQueries.csproj"
             },
-            "C:\\Dev\\Personal\\Code Challenge\\api\\Challenge.Api\\Challenge.DataBase\\Challenge.DataBase.csproj": {
-              "projectPath": "C:\\Dev\\Personal\\Code Challenge\\api\\Challenge.Api\\Challenge.DataBase\\Challenge.DataBase.csproj"
+            "C:\\Dev\\Personal\\Code Challenge\\challenge-api\\Challenge.DataBase\\Challenge.DataBase.csproj": {
+              "projectPath": "C:\\Dev\\Personal\\Code Challenge\\challenge-api\\Challenge.DataBase\\Challenge.DataBase.csproj"
             }
           }
         }
