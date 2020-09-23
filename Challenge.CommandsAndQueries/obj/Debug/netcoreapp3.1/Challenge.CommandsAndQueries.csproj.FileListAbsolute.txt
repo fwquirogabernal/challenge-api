@@ -1,0 +1,15 @@
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\bin\Debug\netcoreapp3.1\Challenge.CommandsAndQueries.deps.json
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\bin\Debug\netcoreapp3.1\Challenge.CommandsAndQueries.runtimeconfig.json
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\bin\Debug\netcoreapp3.1\Challenge.CommandsAndQueries.runtimeconfig.dev.json
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\bin\Debug\netcoreapp3.1\Challenge.CommandsAndQueries.dll
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\bin\Debug\netcoreapp3.1\Challenge.CommandsAndQueries.pdb
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\bin\Debug\netcoreapp3.1\Challenge.DataBase.dll
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\bin\Debug\netcoreapp3.1\Challenge.DataBase.pdb
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\obj\Debug\netcoreapp3.1\Challenge.CommandsAndQueries.csprojAssemblyReference.cache
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\obj\Debug\netcoreapp3.1\Challenge.CommandsAndQueries.AssemblyInfoInputs.cache
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\obj\Debug\netcoreapp3.1\Challenge.CommandsAndQueries.AssemblyInfo.cs
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\obj\Debug\netcoreapp3.1\Challenge.CommandsAndQueries.csproj.CoreCompileInputs.cache
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\obj\Debug\netcoreapp3.1\Challenge.CommandsAndQueries.csproj.CopyComplete
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\obj\Debug\netcoreapp3.1\Challenge.CommandsAndQueries.dll
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\obj\Debug\netcoreapp3.1\Challenge.CommandsAndQueries.pdb
+C:\Dev\Personal\Code Challenge\api\Challenge.Api\Challenge.CommandsAndQueries\obj\Debug\netcoreapp3.1\Challenge.CommandsAndQueries.genruntimeconfig.cache
