@@ -6,6 +6,7 @@ namespace Challenge.Api.Dtos
     public class TaskDto
     {
         public Guid Id { get; set; }
+        public int Codigo { get; set; }
         public string Description { get; set; }
         public bool IsCompleted { get; set; }
         public bool IsDeleted { get; set; }
@@ -15,6 +16,7 @@ namespace Challenge.Api.Dtos
             return new Task
             {
                 Id = !isUpdate ? Guid.NewGuid() : Id,
+                Codigo = Codigo,
                 Description = Description,
                 IsCompleted = IsCompleted
             };

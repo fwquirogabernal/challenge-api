@@ -7,6 +7,7 @@ namespace Challenge.DataBase.Entities
     [Table("Tasks")]
     public class Task: BaseEntity
     {
+        public int Codigo { get; set; }
         [Required]
         public string Description { get; set; }
 

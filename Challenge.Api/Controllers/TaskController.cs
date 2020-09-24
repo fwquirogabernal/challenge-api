@@ -4,6 +4,7 @@ using Challenge.CommandsAndQueries.Queries;
 using Challenge.DataBase.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using System.Linq;
 
 namespace Challenge.Api.Controllers
 {
@@ -29,7 +30,7 @@ namespace Challenge.Api.Controllers
         {
             try
             {
-                var result = _taskQuery.GetAll();
+                var result = _taskQuery.GetAll().OrderBy(t => t.Codigo);
                 return Ok(result);
             }
             catch (System.Exception e)
@@ -69,12 +70,27 @@ namespace Challenge.Api.Controllers
             }
         }
 
-        [HttpPost("deletetask")]
-        public IActionResult DeleteTask([FromBody] TaskDto task)
+        [HttpPost("updatetasks")]
+        public IActionResult UpdateTasks([FromBody] TaskDto[] tasks)
         {
             try
             {
-                _taskCommand.Update(task.ToEntity(true), true);
+                _taskCommand.UpdateAll(tasks.Select(t => t.ToEntity(true)).ToArray());
+                return Ok();
+            }
+            catch (System.Exception e)
+            {
+                _logger.LogError(e.Message);
+                return BadRequest();
+            }
+        }
+
+        [HttpPost("deletetasks")]
+        public IActionResult DeleteTasks([FromBody] TaskDto[] tasks)
+        {
+            try
+            {
+                _taskCommand.UpdateAll(tasks.Select(t => t.ToEntity(true)).ToArray(), remove: true);
                 return Ok();
             }
             catch (System.Exception e)
