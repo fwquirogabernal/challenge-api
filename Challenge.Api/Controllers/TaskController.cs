@@ -30,7 +30,7 @@ namespace Challenge.Api.Controllers
         {
             try
             {
-                var result = _taskQuery.GetAll().OrderBy(t => t.Codigo);
+                var result = _taskQuery.GetAll().OrderBy(t => t.Codigo).OrderBy(t => !t.IsCompleted);
                 return Ok(result);
             }
             catch (System.Exception e)
